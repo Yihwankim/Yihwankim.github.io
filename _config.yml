@@ -95,29 +95,16 @@ analytics:
 author:
   name             : "Yihwan Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "현재 '**금융**'을 공부하고 있는 학생이자,\\
-  앞으로 '**금융 교육**'과 관련된 일을 하고 싶은 청년입니다."
+  bio              : "현재 '**금융**'을 공부하고 있는 학생이자, 앞으로 '**금융 교육**'과 관련된 일을 하고 싶은 청년입니다."
   location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "kimleehwan@kaist.ac.kr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/giveme_hwan/"
 
 # Site Footer
 footer:
