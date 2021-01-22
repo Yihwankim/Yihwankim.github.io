@@ -1,12 +1,11 @@
 ---
-title: "이 블로그 설명서"
+title: "Biograhpy"
 permalink: /about/
 toc_sticky: true
 toc_ads : true
 layout: single
 ---
 
-# Biography
 
 ## ACADEMIC
 2010.03 ~ 2013.02 강북고등학교
