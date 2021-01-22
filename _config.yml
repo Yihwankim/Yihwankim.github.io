@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yihwan Kim"
-  avatar           : "C:\Users\admin\Pictures\프랑스 사진 (2).JPG"
+  avatar           : "/assets/프랑스 사진 (2).JPG"
   bio              : "현재 '**금융**'을 공부하고 있는 학생이자, 앞으로 '**금융 교육**'과 관련된 일을 하고 싶은 청년입니다."
   location         : "Seoul"
   email            : "kimleehwan@kaist.ac.kr"
