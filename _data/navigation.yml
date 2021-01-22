@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Naver Blog"
+    url: https://blog.naver.com/kimleehwan
+  - title: "Python"
+    url: https://yihwankim.github.io/Python
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
