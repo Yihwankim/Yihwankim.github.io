@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yihwan Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "현재 금융을 공부하고 있는 학생이자,\ 앞으로 '금융 교육'과 관련된 일을 하고 싶은 청년입니다."
   location         : "Somewhere"
   email            :
   links:
