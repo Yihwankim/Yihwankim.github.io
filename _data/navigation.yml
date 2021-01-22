@@ -4,8 +4,10 @@ main:
     url: https://blog.naver.com/kimleehwan
   - title: "Python"
     url: https://yihwankim.github.io/Python
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Monthly"
+    url: /month-archive/
+  - title: "Yearly"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
