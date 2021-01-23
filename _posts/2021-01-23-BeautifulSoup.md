@@ -1,3 +1,9 @@
+---
+layout: single
+title: "BeautifulSoup을 이용해 **크롤링** 해보기 (왕기초)"
+---
+
+
 ```python
 html_doc = """
 <html><head><title>The Office</title></head>
