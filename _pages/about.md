@@ -7,15 +7,15 @@ layout: single
 ---
 
 
-## ACADEMIC
-2010.03 ~ 2013.02 강북고등학교  
-2013.03 ~ 2020.02 경북대학교  
-2020.03 ~         한국과학기술원(KAIST)
+## EDUCATION
+2010.03 ~ 2013.02 Gangbook High School   
+2013.03 ~ 2020.02 Kyungpook National University (KNU)   
+2020.03 ~   ing   Korea Advanced Institute of Science and Technology (KAIST)  
 
 ## MAJOR
-경북대학교 경제학사  
-경북대학교 경영학사  
-카이스트 경영공학 금융 (-ing)
+Bachelor of Economics in KNU    
+Bachelor of Business Administration in KNU  
+Management Engineering : Finance in KAIST (-ing)
 
 ## CERTIFICATE
 TOEIC 935  
@@ -27,4 +27,4 @@ TOEIC 935
 Python
 
 ## MILITARY SERVICE
-2014.04 ~ 2016.01 대한민군 육군, 122연대 본부중대
+2014.04 ~ 2016.01 Republic Of Korea Army, 122연대 본부중대
